@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraAPi</string>
+    <string name="button">CAPTURE</string>
+</resources>
